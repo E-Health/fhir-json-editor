@@ -1,0 +1,20 @@
+{
+  "title": "Questionnaire Item",
+  "type": "object",
+  "properties": {
+    "linkId": {
+      "type": "string"
+    },
+    "text": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "linkId",
+    "text",
+    "type"
+  ]
+}
